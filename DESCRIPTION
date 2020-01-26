@@ -1,0 +1,14 @@
+Package: sqlconvertR
+Title: SQL Query Convertion
+Version: 0.1.0
+Authors@R: 
+    person(given = "Motoyuki",
+           family = "Oki",
+           role = c("aut", "cre"),
+           email = "motoyuki.oki@gmail.com")
+Description: Parse SQL DDL and convert them into different SQL DDL
+URL: https://github.com/okiyuki99/sqlconvertR
+BugReports: https://github.com/okiyuki99/sqlconvertR/issues
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
